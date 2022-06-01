@@ -73,6 +73,7 @@ a:hover {
   display: flex;
   justify-content: center;
   align-items: center;
+
 }
 
 .checkBox {
@@ -132,6 +133,7 @@ a:hover {
 }
 
 .menuItens {
+  background-color: #ffffff;
   position: fixed;
   top: 0;
   left: 0;
